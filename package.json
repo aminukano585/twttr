@@ -1,5 +1,6 @@
 {
   "name": "twttr",
+  "rails": "v6.0.2.1",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
