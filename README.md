@@ -1,4 +1,4 @@
-# Twttr App &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aminukano585/twttr/blob/master/LICENSE.md) [![Custom Rails Badge](https://img.shields.io/badge/dynamic/json.svg?style=flat&logo=rails&logoColor=%23cc0000&label=Ruby%20on%20Rails&url=https://raw.githubusercontent.com/aminukano585/twttr/master/package.json&query=$.rails&color=brightgreen)](https://github.com/rails/rails/tree/v6.0.2.1)
+# Twttr App &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aminukano585/twttr/blob/master/LICENSE.md) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) [![Custom Rails Badge](https://img.shields.io/badge/dynamic/json.svg?style=flat&logo=rails&logoColor=%23cc0000&label=Ruby%20on%20Rails&url=https://raw.githubusercontent.com/aminukano585/twttr/master/package.json&query=$.rails&color=brightgreen)](https://github.com/rails/rails/tree/v6.0.2.1)
 
 A simple twttr app, you can view the live site <a href="https://safe-beyond-09622.herokuapp.com/" target="_blank">here<a>
 
